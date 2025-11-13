@@ -211,7 +211,6 @@ a {
 
 .features-item {
     width: calc((100% - 72px) / 4);
-    margin: 0;
 }
 
 .team {
