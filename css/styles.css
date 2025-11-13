@@ -204,8 +204,6 @@ a {
 .features-list {
     display: flex;
     gap: 24px;
-    padding: 0 15px;
-    margin: 0;
 }
 
 .features-item {
